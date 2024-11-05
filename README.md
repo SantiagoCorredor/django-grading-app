@@ -1,20 +1,16 @@
-<<<<<<< HEAD
 
-**General Notes**
+Notas Generales
 
-An `onlinecourse` app has already been provided in this repo upon which you will be adding a new assesement feature.
+En este repositorio se ha proporcionado una aplicación de cursos en línea, sobre la cual se añadirá una nueva funcionalidad de evaluación.
 
-- If you want to develop the final project on Theia hosted by [IBM Developer Skills Network](https://labs.cognitiveclass.ai/), you will need to create the same project structure on Theia workspace and save it everytime you close the browser
-- Or you could develop the final project locally by setting up your own Python runtime and IDE
-- Hints for the final project are left on source code files
-- You may choose any cloud platform for deployment (default is IBM Cloud Foundry)
-- Depends on your deployment, you may choose any SQL database Django supported such as SQLite3, PostgreSQL, and MySQL (default is SQLite3)
+Si deseas desarrollar el proyecto final en Theia, hospedado por IBM Developer Skills Network, deberás crear la misma estructura de proyecto en el espacio de trabajo de Theia y guardarla cada vez que cierres el navegador.
+También puedes optar por desarrollar el proyecto final de manera local, configurando tu propio entorno de ejecución de Python y un IDE.
 
-**ER Diagram**
-For your reference, we have prepared the ER diagram design for the new assesement feature.
+Se han dejado pistas para el proyecto final en los archivos del código fuente.
 
-![Onlinecourse ER Diagram](https://github.com/ibm-developer-skills-network/final-cloud-app-with-database/blob/master/static/media/course_images/onlinecourse_app_er.png)
-=======
-# django-grading-app
-A django grading course app
->>>>>>> 934d897d86809c0b8f4a7dbe6a966ae92c351d6a
+Puedes elegir cualquier plataforma en la nube para el despliegue (por defecto es IBM Cloud Foundry). Dependiendo de tu despliegue, puedes optar por cualquier base de datos SQL compatible con Django, como SQLite3, PostgreSQL y MySQL (por defecto es SQLite3).
+
+Diagrama ER
+Para tu referencia, se ha preparado el diseño del diagrama de entidad-relación para la nueva funcionalidad de evaluación.
+
+Esta implementación fue proporcionada por IBM y desarrollada por Andrés Corredor.
